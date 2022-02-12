@@ -1,1 +1,3 @@
 this is test and static file
+
+This is the Django Tutorial
